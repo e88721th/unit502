@@ -1,0 +1,903 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「只要妹妹一哭，我們就得準備一個特大號的臉盆，否則家裡就要淹水了。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "將妹妹哭泣形容到會淹沒家裡，誇大其詞，屬於誇飾修辭。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「舅舅喜愛『杯中物』，總是喝的不省人事。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「杯中物」借代指「酒」。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「知之為知之，不知為不知，是知也。」這是運用什麼修辭？",
+    "options": ["類疊", "對偶", "映襯", "借代"],
+    "answer": 0,
+    "explanation": "重複使用「知之」、「不知」等詞語，屬於類疊修辭。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「他的腳好長，一小步就可跨過臺灣海峽。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張描述腳長可跨過海峽，屬於誇飾修辭。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「朱門酒肉臭，路有凍死骨。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將富貴與貧窮的極端現象對比，屬於映襯修辭。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「姊姊跑步的速度只能贏過蝸牛。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "極度誇張姊姊跑得慢，屬於誇飾修辭。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「中了！中了！爸爸買的樂透中獎了。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "重複使用「中了」，屬於類疊修辭。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「白髮三千丈，離愁似箇長。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張白髮的長度，屬於誇飾修辭。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「一傳十，十傳百。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句的開頭承接前句的結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "rhetoric",
+    "question": "「風吹草動。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「但願人長久，千里共嬋娟。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「嬋娟」借代指「月亮」。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「忽有龐然大物，拔山倒樹而來，蓋一癩蝦蟆也。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張描述蝦蟆的體型與氣勢，屬於誇飾修辭。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「白日依山盡，黃河入海流。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「那一粒醜陋的沙礫已變成美麗的珍珠。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將醜陋與美麗對比，屬於映襯修辭。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「此時『風平浪靜』，天和海是同樣的顏色。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「紅顏棄軒冕，白首臥松雲。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「請安靜！你們吵得把天花板都掀開來了。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張吵鬧的程度，屬於誇飾修辭。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「讀書寫字。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「『福爾摩沙』的風景十分美麗。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「福爾摩沙」借代指「台灣」。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "rhetoric",
+    "question": "「慈母手中線，遊子身上衣。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+   {
+    "id": 21,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「創業的人都會自然想到上天；而敗家的人卻無時不想到自己。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將創業與敗家的人進行對比，屬於映襯修辭。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「劍外忽傳收薊北，初聞涕淚滿衣裳。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張描述涕淚流滿衣裳的程度，屬於誇飾修辭。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「明辨是非。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「是(對)」與「非(錯)」的概念對比，屬於映襯修辭。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「我肚子餓得可以吃下一頭牛。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇大飢餓程度，屬於誇飾修辭。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「你看我，我看人。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「她長大立志當『白衣天使』。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「白衣天使」借代指「護理師」。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「兩世一身，形單影隻。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「『巾幗』不讓『鬚眉』。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「巾幗」借代女性，「鬚眉」借代男性。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「今年暑假雖然只有短暫兩個月，卻帶給我們永恆的回憶。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「短暫」與「永恆」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "rhetoric",
+    "question": "「妹妹長得白白淨淨的，真叫人喜歡。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "使用「白白淨淨」疊字，屬於類疊修辭。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「大魚吃小魚，小魚吃蝦米。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「地毯的那一端。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「地毯的那一端」借代指「結婚」。"
+  },
+  {
+    "id": 33,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「幾年不見，他已長得又高又壯的，越看越像大人了。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "重複使用「又...又...」，屬於類疊修辭。"
+  },
+  {
+    "id": 34,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「只有埋首耕耘的人，也才能含淚收穫。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「埋首耕耘」與「含淚收穫」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 35,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「山不在高，有仙則名；水不在深，有龍則靈。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 36,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「教室裡，是一張張枯燥無趣的小臉；教室外，是一聲聲歡樂無比的笑容。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將室內的「枯燥」與室外的「歡樂」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 37,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「青青河畔草，綿綿思遠道。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "使用「青青」、「綿綿」疊字，屬於類疊修辭。"
+  },
+  {
+    "id": 38,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「今天的事推到明天，明天又推到後天。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 39,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「安靜無聲的夜晚，傳來轟隆的巨響聲。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「安靜」與「轟隆巨響」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 40,
+    "unit": 4,
+    "category": "rhetoric",
+    "question": "「最大的小車。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「最大」與「小」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 41,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「滔滔江水，綿綿不絕。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "使用「滔滔」、「綿綿」疊字，屬於類疊修辭。"
+  },
+  {
+    "id": 42,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「那種沁涼暢快的感覺，足以將豔陽溶化掉。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張描述暢快感足以溶化烈日，屬於誇飾修辭。"
+  },
+  {
+    "id": 43,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「爸爸當了四十年的老師，『桃李』滿天下。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「桃李」借代指「學生」。"
+  },
+  {
+    "id": 44,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「肝若好，人生是彩色的；肝若不好，人生是黑白的。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「彩色」與「黑白」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 45,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「心心相印。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "使用「心心」疊字，屬於類疊修辭。"
+  },
+  {
+    "id": 46,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「啼笑皆非。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「啼」與「笑」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 47,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「無聲無息。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "使用「無...無...」的類字，屬於類疊修辭。"
+  },
+  {
+    "id": 48,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「他是個『飛毛腿』，每次大隊接力都跑第一棒。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「飛毛腿」借代指「跑得快的人」。"
+  },
+  {
+    "id": 49,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「千呼萬喚始出來，猶抱琵琶半遮面。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張呼喚的次數，屬於誇飾修辭。"
+  },
+  {
+    "id": 50,
+    "unit": 5,
+    "category": "rhetoric",
+    "question": "「人在磨墨，墨也在磨人。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 51,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「愛情和『麵包』，你選哪個？」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「麵包」借代指「工作或物質生活」。"
+  },
+  {
+    "id": 52,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「忽聞海上有仙山，山在虛無縹緲間。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 53,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「別了，我的母校。別了，我的老師。別了，我親愛的同學。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "重複使用「別了」，屬於類疊修辭。"
+  },
+  {
+    "id": 54,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「如果能在進而擴充到整個社會，社會也必然會進步、祥和起來。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 55,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「我是個極空洞的窮人，我也是個極富有的富人。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 2,
+    "explanation": "將「窮人」與「富人」對比，屬於映襯修辭。"
+  },
+  {
+    "id": 56,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「茶，泡茶，泡好茶；坐，請坐，請上坐。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 57,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「情人眼裡出『西施』。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「西施」借代指「美女」。"
+  },
+  {
+    "id": 58,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「一站站燈火撲來，像流螢飛走；一重重山嶺閃過，似浪濤奔流。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 1,
+    "explanation": "詞性相對、結構整齊，屬於對偶修辭。"
+  },
+  {
+    "id": 59,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「大河源於小溪，小溪來自高山。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "頂真", "類疊"],
+    "answer": 2,
+    "explanation": "後句開頭承接前句結尾，屬於頂真修辭。"
+  },
+  {
+    "id": 60,
+    "unit": 6,
+    "category": "rhetoric",
+    "question": "「朝辭白帝彩雲間，千里江陵一日還。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 0,
+    "explanation": "誇張描述船行速度之快，屬於誇飾修辭。"
+  },
+  {
+    "id": 61,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「自古『紅顏』多薄命。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "借代"],
+    "answer": 3,
+    "explanation": "以「紅顏」借代指「美女」。"
+  },
+  {
+    "id": 62,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「朦朧地，山巒靜靜地睡了；朦朧地，田野靜靜地睡了。」這是運用什麼修辭？",
+    "options": ["誇飾", "對偶", "映襯", "類疊"],
+    "answer": 3,
+    "explanation": "重複使用「朦朧地」、「靜靜地」，屬於類疊修辭。"
+  },
+ {
+    "id": 63,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「祝融」一詞在修辭中借代什麼？",
+    "options": ["學生", "騙人的手法", "火災", "音樂"],
+    "answer": 2,
+    "explanation": "祝融是傳說中的火神，故借代為火災。"
+  },
+  {
+    "id": 64,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「西洋鏡」一詞在修辭中借代什麼？",
+    "options": ["學生", "騙人的手法", "火災", "音樂"],
+    "answer": 1,
+    "explanation": "西洋鏡原指一種視覺遊戲裝置，後比喻騙人的手法。"
+  },
+  {
+    "id": 65,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「絲竹」一詞在修辭中借代什麼？",
+    "options": ["學生", "騙人的手法", "火災", "音樂"],
+    "answer": 3,
+    "explanation": "絲指弦樂器，竹指管樂器，故借代為音樂。"
+  },
+  {
+    "id": 66,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「桃李」一詞在修辭中借代什麼？",
+    "options": ["學生", "騙人的手法", "火災", "有學問的人"],
+    "answer": 0,
+    "explanation": "桃李常被用來借代老師所教導的學生。"
+  },
+  {
+    "id": 67,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「有腳書櫥」一詞在修辭中借代什麼？",
+    "options": ["學生", "騙人的手法", "火災", "有學問的人"],
+    "answer": 3,
+    "explanation": "形容人讀書多、學問淵博，借代為有學問的人。"
+  },
+  {
+    "id": 68,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「西席」一詞在修辭中借代什麼？",
+    "options": ["錢", "演戲的人", "老師", "投降"],
+    "answer": 2,
+    "explanation": "西席古指賓客之位，後借代為老師或家庭教師。"
+  },
+  {
+    "id": 69,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「孔方兄」一詞在修辭中借代什麼？",
+    "options": ["錢", "演戲的人", "老師", "投降"],
+    "answer": 0,
+    "explanation": "因古錢中間有方孔，故借代為錢。"
+  },
+  {
+    "id": 70,
+    "unit": 7,
+    "category": "rhetoric",
+    "question": "「放鴿子」一詞在修辭中借代什麼？",
+    "options": ["錢", "演戲的人", "被人爽約", "投降"],
+    "answer": 2,
+    "explanation": "放鴿子借代指約定後未出現，即被人爽約。"
+  },
+  {
+    "id": 71,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「梨園子弟」一詞在修辭中借代什麼？",
+    "options": ["錢", "演戲的人", "被人爽約", "投降"],
+    "answer": 1,
+    "explanation": "梨園為唐代教習歌舞之處，故借代為演戲的人。"
+  },
+  {
+    "id": 72,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「舉白旗」一詞在修辭中借代什麼？",
+    "options": ["錢", "演戲的人", "被人爽約", "投降"],
+    "answer": 3,
+    "explanation": "舉白旗為戰場上表示投降的信號，故借代為投降。"
+  },
+  {
+    "id": 73,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「萱堂」一詞在修辭中借代什麼？",
+    "options": ["事情已完成", "書呆子", "母親", "秋風"],
+    "answer": 2,
+    "explanation": "萱草古稱忘憂草，常種於母親居住之處，故借代為母親。"
+  },
+  {
+    "id": 74,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「西風」一詞在修辭中借代什麼？",
+    "options": ["書信", "秋風", "父親", "國家"],
+    "answer": 1,
+    "explanation": "秋天吹拂的風，故借代為秋風。"
+  },
+  {
+    "id": 75,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「殺青」一詞在修辭中借代什麼？",
+    "options": ["事情已完成", "書呆子", "父親", "寫稿子"],
+    "answer": 0,
+    "explanation": "原指古人製竹簡的工序，現借代為事情已完成（如電影拍攝完畢）。"
+  },
+  {
+    "id": 76,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「爬格子」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "父親", "寫稿子"],
+    "answer": 3,
+    "explanation": "因稿紙上有格子，故借代為寫稿子。"
+  },
+  {
+    "id": 77,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「椿庭」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "父親", "教育界"],
+    "answer": 2,
+    "explanation": "古人以椿樹比喻父親，故借代為父親。"
+  },
+  {
+    "id": 78,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「社稷」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "商人", "國家"],
+    "answer": 3,
+    "explanation": "社為土神，稷為穀神，合稱借代為國家。"
+  },
+  {
+    "id": 79,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「魚雁」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "父親", "教育界"],
+    "answer": 0,
+    "explanation": "古傳書信可託魚雁傳遞，故借代為書信。"
+  },
+  {
+    "id": 80,
+    "unit": 8,
+    "category": "rhetoric",
+    "question": "「陶朱公」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "商人", "教育界"],
+    "answer": 2,
+    "explanation": "陶朱公為春秋時期著名商人范蠡，故借代為商人。"
+  },
+  {
+    "id": 81,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「杏壇」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "父親", "教育界"],
+    "answer": 3,
+    "explanation": "相傳孔子講學處，故借代為教育界。"
+  },
+  {
+    "id": 82,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「兩腳書櫥」一詞在修辭中借代什麼？",
+    "options": ["書信", "書呆子", "父親", "教育界"],
+    "answer": 1,
+    "explanation": "形容人死讀書，借代為書呆子。"
+  },
+  {
+    "id": 83,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「伯樂」一詞在修辭中借代什麼？",
+    "options": ["棘手的人事", "春風", "識才者", "喜帖"],
+    "answer": 2,
+    "explanation": "伯樂善於相馬，故借代為識才者。"
+  },
+  {
+    "id": 84,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「紅色炸彈」一詞在修辭中借代什麼？",
+    "options": ["棘手的人事", "春風", "識才者", "喜帖"],
+    "answer": 3,
+    "explanation": "因喜帖多為紅色，且收到讓人有經濟負擔，故借代為喜帖。"
+  },
+  {
+    "id": 85,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「南風」一詞在修辭中借代什麼？",
+    "options": ["棘手的人事", "夏風", "識才者", "喜帖"],
+    "answer": 1,
+    "explanation": "南風即夏天吹拂的風，故借代為夏風。"
+  },
+  {
+    "id": 86,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「東風」一詞在修辭中借代什麼？",
+    "options": ["棘手的人事", "春風", "識才者", "喜帖"],
+    "answer": 1,
+    "explanation": "東風即春天吹拂的風，故借代為春風。"
+  },
+  {
+    "id": 87,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「干戈」一詞在修辭中借代什麼？",
+    "options": ["戰爭", "故鄉", "識才者", "酒"],
+    "answer": 0,
+    "explanation": "干戈為兵器，故借代為戰爭。"
+  },
+  {
+    "id": 88,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「汗青」一詞在修辭中借代什麼？",
+    "options": ["戰爭", "史冊", "識才者", "酒"],
+    "answer": 1,
+    "explanation": "古人書寫於竹簡，需烤乾其水分（汗），故借代為史冊。"
+  },
+  {
+    "id": 89,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「青衿」一詞在修辭中借代什麼？",
+    "options": ["戰爭", "故鄉", "識才者", "學生"],
+    "answer": 3,
+    "explanation": "古時讀書人所穿的衣物，故借代為學生。"
+  },
+  {
+    "id": 90,
+    "unit": 9,
+    "category": "rhetoric",
+    "question": "「桑梓」一詞在修辭中借代什麼？",
+    "options": ["戰爭", "故鄉", "識才者", "酒"],
+    "answer": 1,
+    "explanation": "古人常於家宅旁種植桑樹與梓樹，故借代為故鄉。"
+  },
+  {
+    "id": 91,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「燙手山芋」一詞在修辭中借代什麼？",
+    "options": ["棘手的人、事", "故鄉", "識才者", "酒"],
+    "answer": 0,
+    "explanation": "比喻極難處理的人、事、物。"
+  },
+  {
+    "id": 92,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「杜康」一詞在修辭中借代什麼？",
+    "options": ["戰爭", "故鄉", "識才者", "酒"],
+    "answer": 3,
+    "explanation": "傳說中杜康是釀酒的始祖，故借代為酒。"
+  },
+  {
+    "id": 93,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「北風」一詞在修辭中借代什麼？",
+    "options": ["醫界", "母親", "冬風", "學生"],
+    "answer": 2,
+    "explanation": "北風即冬天吹拂的風，故借代為冬風。"
+  },
+  {
+    "id": 94,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「杏林」一詞在修辭中借代什麼？",
+    "options": ["醫界", "母親", "冬風", "學生"],
+    "answer": 0,
+    "explanation": "相傳董奉行醫不收錢，只請病患種杏樹，故借代為醫界。"
+  },
+  {
+    "id": 95,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「楊柳風」一詞在修辭中借代什麼？",
+    "options": ["醫界", "母親", "春風", "學生"],
+    "answer": 2,
+    "explanation": "春風吹拂楊柳，故借代為春風。"
+  },
+  {
+    "id": 96,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「玉帛」一詞在修辭中借代什麼？",
+    "options": ["醫界", "和平", "冬風", "學生"],
+    "answer": 1,
+    "explanation": "古代諸侯會盟時以玉帛為禮，故借代為和平。"
+  },
+  {
+    "id": 97,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「金風」一詞在修辭中借代什麼？",
+    "options": ["醫界", "和平", "秋風", "學生"],
+    "answer": 2,
+    "explanation": "秋風在五行中屬金，故借代為秋風。"
+  },
+  {
+    "id": 98,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「薰風」一詞在修辭中借代什麼？",
+    "options": ["醫界", "和平", "夏風", "學生"],
+    "answer": 2,
+    "explanation": "指夏天溫暖的風，故借代為夏風。"
+  },
+  {
+    "id": 99,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「案牘」一詞在修辭中借代什麼？",
+    "options": ["醫界", "平民", "公文", "學生"],
+    "answer": 2,
+    "explanation": "案牘指案頭上的公文，故借代為公文。"
+  },
+  {
+    "id": 100,
+    "unit": 10,
+    "category": "rhetoric",
+    "question": "「布衣」一詞在修辭中借代什麼？",
+    "options": ["醫界", "平民", "夏風", "學生"],
+    "answer": 1,
+    "explanation": "古時平民穿粗布衣服，故借代為平民。"
+  }
+
+]
